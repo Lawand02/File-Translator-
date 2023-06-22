@@ -5,6 +5,5 @@
 Dependencies you need to install:
 
     pip install PyPDF2
-    
     pip install python-docx
     pip install googletrans
